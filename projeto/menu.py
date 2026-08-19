@@ -1,16 +1,15 @@
-def titulo(texto) -> str:
+def mostrar(texto) -> str:
     print(texto)
 
-def subtitulo(texto) -> str:
-    print(texto)
+
 
 def menu():
-    titulo("=== BIBLIOTECA ===")
-    subtitulo("1. Registar livro")
-    subtitulo("2. Listar livros")
-    subtitulo("3. Emprestar / Devolver livro")
-    subtitulo("4. Procurar livros por autor")
-    subtitulo("5. Estatísticas")
-    subtitulo("6. Sair da aplicação")
-    subtitulo("7. Remover livro")    
+    mostrar("=== BIBLIOTECA ===")
+    mostrar("1. Registar livro")
+    mostrar("2. Listar livros")
+    mostrar("3. Emprestar / Devolver livro")
+    mostrar("4. Procurar livros por autor")
+    mostrar("5. Estatísticas")
+    mostrar("6. Sair da aplicação")
+    mostrar("7. Remover livro")    
     

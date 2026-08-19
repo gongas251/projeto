@@ -1,0 +1,4 @@
+Gongas:20
+Hugo:8
+Pedro:12
+Maria:9

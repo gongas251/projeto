@@ -4,5 +4,3 @@ from menu import menu
 def sair_aplicacao():
     sys.exit()
 
-def voltar_menu_inicial():
-    menu()

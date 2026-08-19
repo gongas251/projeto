@@ -1,4 +1,4 @@
-from auxiliares import voltar_menu_inicial
+
 
 
 def registar_livro(livros):

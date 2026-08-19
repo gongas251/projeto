@@ -1,6 +1,6 @@
-from auxiliares import sair_aplicacao,voltar_menu_inicial
+from auxiliares import sair_aplicacao
 from livros import registar_livro,listar_livros,alternar_emprestimo,procurar_por_autor,estatisticas,remover_livro
-from menu import primeira_opcao, segunda_opcao, terceira_opcao, quarta_opcao, quinta_opcao, sexta_opcao,setima_opcao, menu
+from menu import menu
 
 livros = [{"Titulo": "O Hobbit", "Autor": "Tolkien", "Ano": 1937, "Emprestado": False}]
 def main():
